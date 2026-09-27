@@ -1,0 +1,14 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Temporales de Python y pruebas
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs generados por la aplicación
+*.log
